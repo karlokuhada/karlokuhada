@@ -36,9 +36,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=karlokuhada2&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
