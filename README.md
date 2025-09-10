@@ -11,7 +11,7 @@
 
 <img align="right" height="165" src="https://media1.tenor.com/m/-wnRL0HmYlkAAAAd/wagging-tail-wagging.gif"  />
 
-###
+### Languages & Software
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="32" alt="putty logo"  />
 </div>
 
-###
+### Contact me
 
 <div align="left">
   <a href="mailto:karlokuhada2@gmail.com" target="_blank">
