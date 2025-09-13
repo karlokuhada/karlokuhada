@@ -35,4 +35,7 @@
   <a href="mailto:karlokuhada2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=karlokuhada2&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
+  <a href="https://discord.com/users/1267443424479547405" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=vlonethugz&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
+  </a>
 </div>
